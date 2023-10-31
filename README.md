@@ -81,4 +81,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ggarsk/ggarsk/output/github-contribution-grid-snake.svg">
 </picture>
   
-<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6109F4&height=120&section=footer"/>-->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6109F4&height=120&section=footer"/>
