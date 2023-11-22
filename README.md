@@ -5,10 +5,11 @@
 <p align="center">Hello, World! <br><br> Este usuário está desenvolvendo seu portfólio. <!--<br><br> Um cara que gosta de tudo um pouco. <strong>Talvez</strong> surjam coisas novas lá no perfil do Instagram e LinkedIn.--></p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ggarsk&theme=radical&mode=weekly" />
-<img width=42% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=ggarsk&show_icons=true&theme=radical&layout=compact" />
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=ggarsk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- </div>
+ <img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ggarsk&theme=radical&mode=weekly" />
+ <img width=42% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=ggarsk&show_icons=true&theme=radical&layout=compact" />
+ <img width="50%" src=https://github-readme-stats.vercel.app/api?username=ggarsk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <!--  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=ggarsk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
+</div>
  
  &nbsp;
  &nbsp;
