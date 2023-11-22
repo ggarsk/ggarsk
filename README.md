@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/ggarsk/ggarsk/blob/main/hello%2C%20world!.png" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/ggarsk/ggarsk/main/gt.png" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Hello, World! <br><br> Este usuário está desenvolvendo seu portfólio. <!--<br><br> Um cara que gosta de tudo um pouco. <strong>Talvez</strong> surjam coisas novas lá no perfil do Instagram e LinkedIn.--></p>&nbsp;
@@ -84,5 +84,5 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ggarsk/ggarsk/output/github-contribution-grid-snake.svg">
 </picture>
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6109F4&height=120&section=footer"/>
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer"/> -->
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6109F4&height=120&section=footer"/> -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer"/>
