@@ -2,7 +2,14 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/ggarsk/ggarsk/main/gt.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Hello, World! <br><br> Este usuário está desenvolvendo seu portfólio. <!--<br><br> Um cara que gosta de tudo um pouco. <strong>Talvez</strong> surjam coisas novas lá no perfil do Instagram e LinkedIn.--></p>&nbsp;
+<h1 align="left">Hello, World! </h1>
+<h4>Este usuário está desenvolvendo seu portfólio</h4>
+<p>• :no_good: Estudante de ADS pela UNASP [0/2];</p>
+<p>• :pencil2: Copywriter;</p>
+<p>• :computer: Designer;</p>
+<p>• :violin: Violinista.</p>
+&nbsp;
+
 
 <div  align="center" style="margin-bottom:100px">
  <img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ggarsk&theme=radical&mode=weekly" />
