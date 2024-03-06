@@ -4,7 +4,7 @@
 
 <h1 align="left">Hello, World! </h1>
 <h4>Este usuário está desenvolvendo seu portfólio</h4>
-<p>• :no_good: Estudante de ADS pela UNASP [0/2];</p>
+<p>• :no_good: ads || hortolândia - sp;</p>
 <p>• :pencil2: Copywriter;</p>
 <p>• :computer: Designer;</p>
 <p>• :violin: Violinista.</p>
