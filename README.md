@@ -12,9 +12,9 @@
 
 
 <div align="center" width="100%"style="align:center; max-width:1200px">
- <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=ggarsk&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
- <img width="44%" align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=ggarsk&show_icons=true&theme=radical&layout=compact"/>
+<!--  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=ggarsk&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> -->
  <img width="52%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ggarsk&theme=radical&mode=weekly"/>
+ <img width="44%" align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=ggarsk&show_icons=true&theme=radical&layout=compact"/>
 </div>
  
  &nbsp;
@@ -39,7 +39,7 @@
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
 ![Graphql](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;-->
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
 <!--#### Secondary Stack:
 
@@ -50,7 +50,7 @@
 
 #### Studying in this moment:
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![Node.js](https://img.shields.io/badge/Nodejs-20232A?style=for-the-badge&logo=node.js&logoColor=8CC03D)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
@@ -65,8 +65,8 @@
 #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 <!--![Asana](https://img.shields.io/badge/asana-E44C30?style=for-the-badge&logo=asana&logoColor=white)&nbsp;
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;-->
